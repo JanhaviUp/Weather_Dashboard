@@ -15,4 +15,5 @@ Date
 Weather Icon
 Temperature
 Humidity
+
 This dashboard provides an intuitive and user-friendly way to check the weather for any city worldwide. 🌍☀️🌧
